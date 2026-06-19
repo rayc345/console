@@ -1,0 +1,9 @@
+{
+  "name": "rust_lib_canokey_console",
+  "version": "0.1.0",
+  "files": [
+    "rust_lib_canokey_console_bg.wasm",
+    "rust_lib_canokey_console.js"
+  ],
+  "browser": "rust_lib_canokey_console.js"
+}
